@@ -3,9 +3,9 @@
 **ESP32 SMART PID LINE FOLLOWER + WIFI TUNING**
 
 The **Line Follower Robot** is a PID-controlled robot that tracks a line on the floor using 5 IR sensors, with Wi-Fi-based tuning for dynamic adjustments.
-<img src="media/bot.jpg" width="400">
 
-<img src="media/tracking.gif" width="400">
+![Bot](media/bot.jpg)
+![Robot Moving](media/tracking.gif)
 ## Features
 
 1. **Persistent Storage**: Saves PID parameters, speed, delay, and error memory to flash.
